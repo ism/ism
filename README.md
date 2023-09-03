@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ism.
-- 👀 I’m interested in bots, reverse-engineering, computer vision, F#, functional programming.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in bots, reverse-engineering, web3, F#, functional programming.
 - 📫 You may reach me using github.
 
 <!---
